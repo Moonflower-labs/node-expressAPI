@@ -1,8 +1,6 @@
 const allowedOrigins = [
-  "https:/www./yoursite.com",
-  "https://www.example.com",
-  "https://www.google.com",
   "http://localhost:3500",
+  "https://node-expressapi-9qd9.onrender.com/",
 ];
 
 module.exports = allowedOrigins;
